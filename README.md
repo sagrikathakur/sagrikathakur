@@ -47,8 +47,13 @@ I'm a front-end developer passionate about building clean, responsive interfaces
 
  Email: sagrikathakur68@gmail.com  
  LinkedIn: [sagrikathakur](https://www.linkedin.com/in/sagrikathakur/)  
-![Demo](https://media.giphy.com/media/yourgifurl.gif)
+
+
+<p align="center">
+  <img src="https://media.tenor.com/aTx3zLr2HjUAAAAm/penguin-pengu.webp" alt="Coder Anime" width="400">
+</p>
+
 
 ---
 
-*Building one project at a time* 🚀
+*Building one project at a time* 
