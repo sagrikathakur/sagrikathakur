@@ -47,6 +47,7 @@ I'm a front-end developer passionate about building clean, responsive interfaces
 
  Email: sagrikathakur68@gmail.com  
  LinkedIn: [sagrikathakur](https://www.linkedin.com/in/sagrikathakur/)  
+![Demo](https://media.giphy.com/media/yourgifurl.gif)
 
 ---
 
