@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **sagrikathakur/sagrikathakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey, I'm Sagrika 👋
+# Hey, I'm Sagrika 
 
 I'm a front-end developer passionate about building clean, responsive interfaces with React and JavaScript.  Currently learning full-stack development with Node.js and MongoDB.
 
-## 🛠️ My Skills
+##  My Skills
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
@@ -45,8 +45,8 @@ I'm a front-end developer passionate about building clean, responsive interfaces
 
 ## Let's connect
 
-📧 Email: sagrikathakur68@gmail.com  
-💼 LinkedIn: [sagrikathakur](https://www.linkedin.com/in/sagrikathakur/)  
+ Email: sagrikathakur68@gmail.com  
+ LinkedIn: [sagrikathakur](https://www.linkedin.com/in/sagrikathakur/)  
 
 ---
 
