@@ -50,7 +50,11 @@ I'm a front-end developer passionate about building clean, responsive interfaces
 
 
 <p align="center">
-  <img src="https://media.tenor.com/aTx3zLr2HjUAAAAm/penguin-pengu.webp" alt="Coder Anime" width="400">
+  <img src="https://media.tenor.com/aTx3zLr2HjUAAAAm/penguin-pengu.webp" alt="Coder Anime" width="180">
+   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYxOTdiMHR1aTN0cThnZWVhMDByMWZlNzVjNzZ6cml5MDd2dnliayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pt0EKLDJmVvlS/giphy.webp" alt="Coder Anime" width="180">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVzMWN6NWFiYXdqYnFiM3M0bTRweW14NWthaWVsdW1seWliMThlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/T2d4uMzn7dzOVHcUHA/giphy.webp" alt="Coder Anime" width="180">
+  
+
 </p>
 
 
