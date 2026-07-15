@@ -12,20 +12,20 @@ I'm currently learning backend development and enjoy building REST APIs with Exp
 - HTML
 - CSS
 - Tailwind CSS
+- React js
+- Context API and redux
 
 ### Backend
 - Express.js
 - REST API
+- Authentications
+- Authorization
+- Security
+- Backend architecture 
 
 ### Database
 - PostgreSQL
-
-## What I'm working on
-
-- Building backend projects with Express.js
-- Learning authentication and authorization
-- Writing better SQL queries
-- Exploring Docker and AWS
+- Prisma
 
 ## Connect with me
 
