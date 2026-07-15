@@ -33,6 +33,4 @@ I'm currently learning backend development and enjoy building REST APIs with Exp
 
 💼 **LinkedIn:** https://www.linkedin.com/in/sagrikathakur
 
----
-
-*"Learning by building."*
+<p align="center"> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnYxOTdiMHR1aTN0cThnZWVhMDByMWZlNzVjNzZ6cml5MDd2dnliayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pt0EKLDJmVvlS/giphy.webp" alt="Coder Anime" width="180">
